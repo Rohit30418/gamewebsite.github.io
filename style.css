@@ -67,10 +67,10 @@ main{
 	padding: 0px 20px;
 }
 
-.maps .row>div{
- height: 200px;
- overflow: hidden;
+.maps img{
+	width: 100%;
 }
+
 
 .charc{
     background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url("https://wallpapercave.com/wp/wp5193135.jpg");
@@ -120,6 +120,11 @@ main{
 }
 
 
+.coustume{
+	background-image:linear-gradient(rgba(26,26,26,0.9),rgba(26,26,26,0.9)), url("https://liquipedia.net/commons/images/8/8c/FF_Wukong.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
 
 .coustume img{
     width: 100%;
@@ -355,5 +360,4 @@ footer{
 	}
 
 }
-
 
