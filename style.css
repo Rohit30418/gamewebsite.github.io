@@ -120,11 +120,6 @@ main{
 }
 
 
-.coustume{
-	background-image:linear-gradient(rgba(26,26,26,0.9),rgba(26,26,26,0.9)), url("https://liquipedia.net/commons/images/8/8c/FF_Wukong.png");
-	background-repeat: no-repeat;
-	background-position: center;
-}
 
 .coustume img{
     width: 100%;
